@@ -1,3 +1,3 @@
-module github.com/9oelm/submodules/b
+module github.com/9oelM/submodules/b
 
 go 1.17
