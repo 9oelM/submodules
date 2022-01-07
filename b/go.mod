@@ -1,3 +1,3 @@
-module github.com/go-modules-by-example/submodules/b
+module github.com/9oelm/submodules/b
 
-go 1.12
+go 1.17
